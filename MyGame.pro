@@ -17,8 +17,10 @@ TEMPLATE = app
 
 SOURCES += main.cpp \
     game.cpp \
-    character.cpp
+    character.cpp \
+    level.cpp
 
 HEADERS += \
     game.h \
-    character.h
+    character.h \
+    level.h
